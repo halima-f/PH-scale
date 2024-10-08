@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(231, 227, 227);
+    color: rgb(7, 1, 1);
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+
+    h1{background-color: white;}
+    p {
+    padding: 5px;
+    margin: 0px;}
+    div{ height:0.7cm }
+    
+    div.zero {
+    background-color: rgb(238,62,128);}
+    div.one {
+    background-color: rgb(244,90,139);}
+    div.two {
+    background-color: rgb(243,106,152);}
+    div.three {
+    background-color: rgb(244,123,166);}
+    div.four {
+    background-color: rgb(245,140,178);}
+    div.five {
+    background-color: rgb(246,159,192);}
+    div.six {
+    background-color: rgb(245,176,204);}
+    div.seven {
+    background-color: rgb(101, 190, 93);}
+    div.eight {
+    background-color: rgb(140,202,242);}
+    div.nine {
+    background-color: rgb(114,193,240);}
+    div.ten {
+    background-color: rgb(84,182,237);}
+    div.eleven {
+    background-color: rgb(48,170,233);}
+    div.twelve {
+    background-color: rgb(0,160,230);}
+    div.thirteen {
+    background-color: rgb(0,149,226);}
+    div.fourteen {
+    background-color: rgb(0,136,221);}
